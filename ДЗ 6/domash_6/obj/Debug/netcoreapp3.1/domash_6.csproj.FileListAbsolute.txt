@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.Form1.resources
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.AssemblyInfo.cs
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\bin\Debug\netcoreapp3.1\domash_6.exe
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\bin\Debug\netcoreapp3.1\domash_6.deps.json
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\bin\Debug\netcoreapp3.1\domash_6.runtimeconfig.json
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\bin\Debug\netcoreapp3.1\domash_6.runtimeconfig.dev.json
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\bin\Debug\netcoreapp3.1\domash_6.dll
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\bin\Debug\netcoreapp3.1\domash_6.pdb
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.dll
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.pdb
+C:\Users\User\Desktop\ВВУЗ\2 курс\ООП\Домашние задания\DZ_6\domash_6\domash_6\obj\Debug\netcoreapp3.1\domash_6.genruntimeconfig.cache
