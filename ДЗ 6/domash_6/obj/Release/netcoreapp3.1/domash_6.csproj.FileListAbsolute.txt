@@ -1,0 +1,16 @@
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\bin\Release\netcoreapp3.1\domash_6.exe
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\bin\Release\netcoreapp3.1\domash_6.deps.json
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\bin\Release\netcoreapp3.1\domash_6.runtimeconfig.json
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\bin\Release\netcoreapp3.1\domash_6.runtimeconfig.dev.json
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\bin\Release\netcoreapp3.1\domash_6.dll
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\bin\Release\netcoreapp3.1\domash_6.pdb
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.Form1.resources
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.csproj.GenerateResource.cache
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.dll
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.pdb
+C:\Users\hp\OneDrive\Рабочий стол\5, 6 дз ООП\domash_6\domash_6\obj\Release\netcoreapp3.1\domash_6.genruntimeconfig.cache
